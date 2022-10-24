@@ -3,7 +3,7 @@ package com.study.git;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("delete");
+		System.out.println("update");
 		
 		
 		
